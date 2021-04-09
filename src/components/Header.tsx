@@ -7,10 +7,10 @@ export function Header(){
       as="header"
       w="100%"
       maxWidth={1480}
-      h="20" // x4 = 80px
-      mx="auto" // margin eixo x
+      h="20"
+      mx="auto"
       mt="4"
-      px="6" // padding eixo x
+      px="6"
       align="center"
     >
       
